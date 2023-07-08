@@ -1,0 +1,20 @@
+{
+    "name": "br.silassena/helpers",
+    "description": "Common functions to aid development",
+    "type": "library",
+    "license": "GPL-3.0.or-later",
+    "autoload": {
+        "psr-4": {
+            "BrSilassena\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Silas Sena",
+            "email": "silas.g.sena@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
