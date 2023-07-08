@@ -1,6 +1,6 @@
 # Helpers
 
-Funcoes simples para uso em diversos projetos
+Funções simples para uso em diversos projetos
 
 ## Instalação 
 
