@@ -8,4 +8,4 @@ composer require br.silassena/helpers
 
 ## Requisitos
 
-php: >=7.4
+- php >=7.4
