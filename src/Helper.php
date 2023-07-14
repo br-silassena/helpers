@@ -142,7 +142,7 @@ abstract class Helper
 
     /**
      * Redimensiona uma imagem para as dimensoes fornecidas
-     * 
+     *
      * @param string $caminhoImagem
      * @param int $larguraNova
      * @param int $alturaNova

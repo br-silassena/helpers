@@ -21,6 +21,14 @@ echo "O nome mês 3 é : " . Helper::nomeMes(3);
 
 ```
 
+```
+use BrSilassena\Helpers\Helper;
+
+echo Helper::comprimirImagem('images/imagem.jpg',70);
+echo Helper::redimensionarImagens('images/imagem.jpg',700,480);
+
+```
+
 ## Requisitos
 
 - php >=7.4
